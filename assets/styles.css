@@ -392,3 +392,68 @@ body { padding-bottom: 76px; }
   .sticky-cta { display: none; }
   body { padding-bottom: 0; }
 }
+
+/* Hero headline: what we do */
+.headline {
+  margin: 0;
+  color: var(--white);
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  max-width: 18ch;
+}
+.headline em { font-style: normal; color: var(--yellow); }
+.promise {
+  margin: 0;
+  color: var(--navy-text);
+  font-size: 20px;
+  font-weight: 700;
+  max-width: var(--measure);
+}
+
+/* Plan ladder */
+.price-line { margin: 0; }
+.plans {
+  display: grid;
+  gap: 12px;
+  margin: 26px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.plan {
+  background: var(--white);
+  border: 2px solid var(--card-border);
+  border-radius: 18px;
+  padding: 16px 18px;
+}
+.plan h2 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.plan .price {
+  margin: 2px 0 6px;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+.plan .price small { font-size: 18px; letter-spacing: 0; }
+.plan p { margin: 0; }
+.plan-note { margin: 14px 0 0; font-weight: 700; max-width: var(--measure); }
+
+@media (min-width: 640px) {
+  .headline { font-size: 52px; }
+  .plans { grid-template-columns: repeat(3, 1fr); }
+}
+@media (min-width: 900px) {
+  .headline { font-size: 64px; }
+}
+
+/* Long pill text wraps on small phones */
+.pill { white-space: normal; text-align: center; line-height: 1.35; }
+.stat strong { font-size: 26px; overflow-wrap: anywhere; }
+@media (min-width: 640px) { .stat strong { font-size: 40px; } }
