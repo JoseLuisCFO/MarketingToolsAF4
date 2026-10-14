@@ -5,6 +5,9 @@
     <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://af4.com/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://af4.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://af4.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://af4.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://af4.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://af4.com/"/>
   </url>
   <url>
@@ -12,6 +15,39 @@
     <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://af4.com/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://af4.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://af4.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://af4.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://af4.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://af4.com/"/>
+  </url>
+  <url>
+    <loc>https://af4.com/de/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://af4.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://af4.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://af4.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://af4.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://af4.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://af4.com/"/>
+  </url>
+  <url>
+    <loc>https://af4.com/fr/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://af4.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://af4.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://af4.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://af4.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://af4.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://af4.com/"/>
+  </url>
+  <url>
+    <loc>https://af4.com/pt/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://af4.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://af4.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://af4.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://af4.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://af4.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://af4.com/"/>
   </url>
 </urlset>
